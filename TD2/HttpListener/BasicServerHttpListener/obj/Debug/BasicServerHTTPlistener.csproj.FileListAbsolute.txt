@@ -32,3 +32,10 @@ C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD1\HttpListener\
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD1\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe.config
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\bin\Debug\ConsoleApp3.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csprojAssemblyReference.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\BasicServerHTTPlistener.csproj.CoreCompileInputs.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\HttpListener\BasicServerHttpListener\obj\Debug\ConsoleApp3.pdb

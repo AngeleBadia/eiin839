@@ -12,3 +12,10 @@ C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\BasicWebServe
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csproj.CoreCompileInputs.cache
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.exe
 C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\BasicWebServer\obj\Debug\BasicWebServer.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.exe.config
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\bin\Debug\BasicWebServer.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csprojAssemblyReference.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServerUrlParser.csproj.CoreCompileInputs.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServer.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\BasicWebServer\obj\Debug\BasicWebServer.pdb

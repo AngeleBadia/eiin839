@@ -6,10 +6,12 @@ namespace ExeTest
     {
         static void Main(string[] args)
         {
-            if (args.Length == 1)
-                Console.WriteLine(args[0]);
+            if (args.Length < 2) {
+                Console.WriteLine("Arguments missing");
+            }
             else
-                Console.WriteLine("ExeTest <string parameter>");
+                Console.WriteLine("<HTML><BODY> Hello " + args[0] + " from " + args[1] + "</BODY></HTML>");
         }
+        
     }
 }

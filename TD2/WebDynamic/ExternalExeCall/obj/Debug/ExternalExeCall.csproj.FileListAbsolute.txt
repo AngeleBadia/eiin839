@@ -12,3 +12,10 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExternalExeCall\obj\Debug\ExternalExeCall.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.exe.config
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\bin\Debug\ExternalExeCall.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.csprojAssemblyReference.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.csproj.CoreCompileInputs.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExternalExeCall\obj\Debug\ExternalExeCall.pdb

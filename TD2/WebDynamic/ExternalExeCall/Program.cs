@@ -11,7 +11,14 @@ class Program
         // https://www.dotnetperls.com/process
         //
         ProcessStartInfo start = new ProcessStartInfo();
-        start.FileName = @"D:\ENSEIGNEMENTS\SoCWS SI4\TD2\BasicExamplesTD2\ExecTest\bin\Debug\ExecTest.exe"; // Specify exe name.
+
+        string[] separator = new string[] { "\\bin" };
+        //separate at "\bin\..."
+        string path = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName).Split(separator, StringSplitOptions.None)[0];
+        //{path}\resources\index.html
+        string rootDirectory = path + @"\cgi-bin";
+
+        start.FileName = rootDirectory + @"\ExecTest.exe"; // Specify exe name.
         start.Arguments = "Argument1"; // Specify arguments.
         start.UseShellExecute = false; 
         start.RedirectStandardOutput = true;

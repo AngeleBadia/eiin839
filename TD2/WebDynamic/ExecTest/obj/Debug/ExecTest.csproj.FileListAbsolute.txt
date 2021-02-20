@@ -5,3 +5,10 @@ D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Deb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\bin\Debug\ExecTest.pdb
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.exe
 D:\ENSEIGNEMENTS\SoCWS SI4\TD REFLEXION SAMPLE\ReflectionSample\ExecTest\obj\Debug\ExecTest.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.exe.config
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\bin\Debug\ExecTest.pdb
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.csprojAssemblyReference.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.csproj.CoreCompileInputs.cache
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.exe
+C:\Angele\0_Cours\S8\ServiceOrientedComputing\projects\eiin839\TD2\WebDynamic\ExecTest\obj\Debug\ExecTest.pdb
